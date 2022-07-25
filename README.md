@@ -18,7 +18,7 @@ In this repository, you will get all documents (dataset, transformed dataset, py
 
 ![image](https://user-images.githubusercontent.com/102003804/179805293-75f4d383-c1b4-4a84-8680-706a17e802d0.png)
 ![image](https://user-images.githubusercontent.com/102003804/179805342-cfe5dcbe-a503-46bc-964d-734064fa5f1a.png)
-![image](https://user-images.githubusercontent.com/102003804/179805378-f8483027-4272-42c5-bb8d-be1d5776458c.png)
+
 ![image](https://user-images.githubusercontent.com/102003804/179805411-5cbdb33d-396d-456b-a4a1-93b36736118f.png)
 
 
